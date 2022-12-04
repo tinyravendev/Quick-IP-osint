@@ -1,6 +1,22 @@
 # Quick-IP-osint
 Ip osint non main repo
 
+#to do
+
+## ver 1
+- Use wrappers.go in main.go
+- Add flags 
+- Code lint 
+- save output (export) to file (json/txt/etc) 
+## ver 2
+- add config file to read config from (go config awesome go) 
+- Scan IP with nmap? (Hint: Permanently Disable This Annoying promote in the config file) 
+## ver 3
+- Add cli with cobra(?)
+- Add better tui with charm/lipgloss
+- read from file
+- batch search with go Concurrency? 
+
  Automated IP Address Information Gathering Script/Tool Written In Golang
 
 
